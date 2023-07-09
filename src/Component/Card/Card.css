@@ -1,0 +1,21 @@
+.CardContainer {
+  width: 24rem;
+  height: 18rem;
+  border-radius: 0.36rem;
+  position: relative;
+  cursor: pointer;
+}
+.CardContainer img {
+  width: 24rem;
+  height: 18rem;
+  border-radius: 0.36rem;
+}
+.PlaceContainer {
+  position: absolute;
+  top: 12rem;
+  left: 5rem;
+  color: white;
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+}

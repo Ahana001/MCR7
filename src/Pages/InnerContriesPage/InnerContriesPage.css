@@ -1,4 +1,4 @@
-.HomePageContainer {
+.InnerContriesPageContainer {
   background-color: rgb(51, 50, 50);
   min-height: 100vh;
   width: 100%;
@@ -7,11 +7,8 @@
   align-items: center;
   justify-content: center;
 }
-.HomePageContainer h1 {
-  font-size: 3rem;
-  color: white;
-}
-.HomePageContainer h2 {
+
+.InnerContriesPageContainer h2 {
   font-size: 2.5rem;
-  color: rgb(58, 58, 194);
+  color: white;
 }
